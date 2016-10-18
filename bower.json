@@ -1,0 +1,25 @@
+{
+  "name": "bangazon-front-end",
+  "homepage": "https://github.com/estorms/bangazon-2-front-end",
+  "authors": [
+    "Elizabeth Sanger <libsang@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+
+   "dependencies": {
+    "angular": "^1.5.7",
+    "angular-route": "^1.5.7",
+    "bootstrap": "^3.3.6",
+    "jquery": "^3.1.0"
+
+  }
+}
